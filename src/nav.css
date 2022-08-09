@@ -1,0 +1,18 @@
+.nav{
+   
+  background-color: transparent;
+  position: absolute;  
+   
+}
+.logo{
+    position: fixed;
+    width: 100%;
+    padding-top: 20px;
+    margin-left: 30px;
+    max-width: 230px;
+    z-index: 20000;
+}
+
+.nav__black{
+    background-color: #111;
+}
